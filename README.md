@@ -18,7 +18,7 @@ Try the app live on Hugging Face Spaces: [Image Caption Generator](https://huggi
 
 ### Screenshots
 #### Desktop View
-![Desktop View](Screenshots/Desktop_view.png)
+![Desktop View](Screenshots/Desktop_view.PNG)
 
 #### Mobile View
 ![Mobile View](Screenshots/Mobile_view.jpg)
