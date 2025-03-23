@@ -18,10 +18,10 @@ Try the app live on Hugging Face Spaces: [Image Caption Generator](https://huggi
 
 ### Screenshots
 #### Desktop View
-![Desktop View](screenshots/Desktop_view.png)
+![Desktop View](Screenshots/Desktop_view.png)
 
 #### Mobile View
-![Mobile View](screenshots/Mobile_view.jpg)
+![Mobile View](Screenshots/Mobile_view.jpg)
 
 ## Installation
 To run the project locally, follow these steps:
